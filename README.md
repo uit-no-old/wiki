@@ -1,1 +1,1 @@
-# [Go to wiki](https://github.com/UiT-ITA/wiki/wiki)
+# [Go to wiki](https://github.com/uit-no/wiki/wiki)
